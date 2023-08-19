@@ -1,0 +1,16 @@
+.container {
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 150px;
+
+  /* background: greenyellow; */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15px;
+}
+
+#str {
+  padding: 0;
+  margin: 0;
+}
